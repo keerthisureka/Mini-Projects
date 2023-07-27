@@ -1,5 +1,6 @@
 from selenium import webdriver
 import time
+# import sys
 
 def certificateautomation(sname, semail, scourse, sduration, scompletion, sscore):
     web = webdriver.Chrome()

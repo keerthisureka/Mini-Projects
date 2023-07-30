@@ -6,7 +6,7 @@ from datetime import date
 def certificateautomation(sname, semail, scourse, sduration, scompletion, sscore):
     options = webdriver.ChromeOptions()
     options.add_argument('--headless')
-    web = webdriver.Chrome(options=options)
+    web = webdriver.Chrome(options=options) # should have chromedriver.exe file in the same folder
     web.get('https://docs.google.com/forms/d/e/1FAIpQLSf9kz59-k87gT3ImgsS9KU1S1muNOfDipoercMGM4T0Bqx87A/viewform')
     # web.maximize_window()
     time.sleep(3)

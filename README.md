@@ -14,3 +14,9 @@ This repo contains all the academic projects.
 - So the python file receives parameters from php file and automatically fills a Google form using Selenium and webdriver in python.
 - The responses of the form are stored in Google Sheets which uses an extension(add-on) called AutoCrat to automate the process.
 - This add-on has form and time triggers to automatically E-mail the certificates to the learners.
+
+### V Sem
+- The project is made as a part of DBMS Lab Mini Project.
+- It is a Medical Laboratory Information System built using tkinter in Python for frontend and MySQL for backend.
+- This project aims to help the patients to know about the available labs and tests with information on price, efficiency, location, etc.
+- These details can be added by the admin of the portal (Details such as adding labs, tests and various other information) that can be helpful to the patients in order to choose the best suitable lab.

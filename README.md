@@ -16,6 +16,7 @@ This repo contains all the academic projects.
 - This add-on has form and time triggers to automatically E-mail the certificates to the learners.
 
 ### V Sem
+##### Medical Laboratory Information System
 - The project is made as a part of DBMS Lab Mini Project.
 - It is a Medical Laboratory Information System built using tkinter in Python for frontend and MySQL for backend.
 - This project aims to help the patients to know about the available labs and tests with information on price, efficiency, location, etc.

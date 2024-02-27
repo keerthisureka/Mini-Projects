@@ -20,4 +20,4 @@ This repo contains all the academic projects.
 - The project is made as a part of DBMS Lab Mini Project.
 - It is a Medical Laboratory Information System built using tkinter in Python for frontend and MySQL for backend.
 - This project aims to help the patients to know about the available labs and tests with information on price, efficiency, location, etc.
-- These details can be added by the admin of the portal (Details such as adding labs, tests and various other information) that can be helpful to the patients in order to choose the best suitable lab.
+- These details can be added by the admin of the portal (details such as adding labs, tests and various other information) that can be helpful to the patients in order to choose the best suitable lab.
